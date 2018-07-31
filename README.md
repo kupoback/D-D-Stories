@@ -1,6 +1,6 @@
 # D-D-Stories
 
-##Monday July 30th, 2018
+## Monday July 30th, 2018
 My players spent 2 hours in one room. Well, to be honest, 1 of them spent 2 hours in a room
 They had to pass into a skull to get into the room, whose jaws would close after the 3rd person. Well they sent in the player whose ran this module before, but is taking a backseat on decisions. Then had him pick up this crystal box, which triggers combat against a big creature. Well, RIP player as the creature flies, and the player is a Paladin with no range. He dies, as the others realize they fucked up and tried to hack through a 5' thick stone wall, which I gave AC 15, 300 HP, immune to non-magical weapons, immune to radiant damage (which reflects as necrotic), resistant to magical weapons of non-elemental type, and every 1d3 rounds, causes 2 flesh golems to appear from the corners and attack the players.
 
@@ -13,7 +13,7 @@ So the player that died rolled up another character, which breaks my game entire
 
 Then, cuz it was his 2nd character that died, i'm like, dude don't array your stats, roll em. you're gunna break the game, go to the max man. and take this +2 1-handed crossbow. Dudes been the most real bro in the game.
 
-##Saturday, July 28th, 2018
+## Saturday, July 28th, 2018
 so on saturday, we had our every other sat session. things were going okay, but instead of their intended plan of going to gather intel from a shrine nearby, they decided to wonder this ruined city, that's about 2sq miles, looking for at least one of the known 6 other inhabitants who are wanderers. this took 4 real time hours before i just threw the dice away and gave them the encounter.
 
 then they got the intel and began the journey into the last chapter dungeon. Well first check they needed to avoid a trap, one of them failed, and started to argue with me on the rules/calling. I made it by the book. It took 5 min of arguing before I snapped and said, "Look, I'm doing this out of my own free will and my own personal time. I'm not here to argue or getting paid for this. I'm running the game here for you guys, so either accept the rolls and the outcome, or just go." To which one of them replied, "Well, we're here of our own accord and free time as well." I asked him, "How many hours a week do you put into your character? I put in about 8 - 12 hours a week for each of our 2 hour sessions." That shut him up, but not the one arguing me. He has a background of 3.5 and pathfinder and keeps saying "Well in previous editions..." I tell him, "I don't care what pathfinder does, 3.5 does, A&A does, or what Starfinder does. 5e does it like this. You've been playing this system for 8 months with me. If you're not liking the rules, step out and start a 3.5 campaign."
